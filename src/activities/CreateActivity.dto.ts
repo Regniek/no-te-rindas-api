@@ -18,7 +18,7 @@ export class CreateActivityDto {
     description: string;
 
     @IsNotEmpty()
-    @MinLength(8)
+    @MinLength(2)
     type: string;
 
     @IsNotEmpty()
