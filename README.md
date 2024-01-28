@@ -13,11 +13,11 @@
 
 ## Integrantes y roles
 
-|Integrante         |Área              |Rol               |
+|Members         |Area              |Rol               |
 |:------------------|:-----------------|:-----------------|
 |Diana Garcia   |*Game Developer:*     |Programing     |
 |Sebastian Gonzalez      |*Game Developer:*      |Programing|
-|Juan Pablo    |*Artis:*      |Pictures|
+|Juan Pablo    |*Artist:*      |Pictures|
 |Juan Espitia       |*Game Developer*      |Programing|
 
 
