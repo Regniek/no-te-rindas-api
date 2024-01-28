@@ -1,73 +1,63 @@
+<center><h1>Don't laugh</h1></center> 
+<center>
+
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+<img  src="Logo.png">
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+</center>
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+<center><h1>Global Game Jam 2024</h1></center> 
 
-## Description
+### Event: Global Game Jam
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Integrantes y roles
 
-## Installation
+|Integrante         |Área              |Rol               |
+|:------------------|:-----------------|:-----------------|
+|Diana Garcia   |*Game Developer:*     |Programing     |
+|Sebastian Gonzalez      |*Game Developer:*      |Programing|
+|Juan Pablo    |*Artis:*      |Pictures|
+|Juan Espitia       |*Game Developer*      |Programing|
 
-```bash
-$ npm install
-```
 
-## Running the app
 
-```bash
-# development
-$ npm run start
 
-# watch mode
-$ npm run start:dev
 
-# production mode
-$ npm run start:prod
-```
 
-## Test
+This mobile game is a social experience that enables various groups of people to engage and tackle diverse challenges, all under the strict condition of avoiding noise generation.
 
-```bash
-# unit tests
-$ npm run test
 
-# e2e tests
-$ npm run test:e2e
+# Backend Nest.JS
 
-# test coverage
-$ npm run test:cov
-```
+### Start 🚀
 
-## Support
+This app consists of two parts: an API that fetches jokes and challenges, and another part that involves Unity development for Web, PC, and Android devices.
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+### Install 🔧
 
-## License
+- Clone this repository git clone git@github.com:Regniek/no-te-rindas-api.git
+- Install dependencies with npm i
+- Create Database
+- add .env file
+- run server with  npm run start:dev
 
-Nest is [MIT licensed](LICENSE).
+# App Unity 
+
+### Start 🚀
+
+These services are designed to facilitate the development and construction of the app across various systems 
+
+
+
+### Install 🔧
+
+- Clone this repository git clone git@github.com:Regniek/GameJam2024.git
+- open in Unity
+
+
+# Licencia <img src="https://img.shields.io/badge/Licence-MIT-RED"> 
+
+Este proyecto está bajo la Licencia (MIT)
